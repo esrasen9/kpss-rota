@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://esrasen9.github.io/kpss-rota/sitemap.xml
+Sitemap: https://kpss-rota.com/sitemap.xml
