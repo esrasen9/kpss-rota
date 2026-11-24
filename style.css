@@ -102,3 +102,6 @@ th{background:var(--soft);font-weight:600}
   .sticky-get em{font-style:normal;font-weight:700;background:#fff;color:#1a2459;padding:8px 16px;border-radius:99px}
   body{padding-bottom:84px}
 }
+nav .links{align-items:center}
+nav .links a.nav-get{background:#fff;color:#1a2459;font-weight:700;padding:7px 14px;border-radius:99px}
+header.hero{position:relative}
